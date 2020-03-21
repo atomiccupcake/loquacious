@@ -1,0 +1,2 @@
+# loquacious
+Scrabble study tool
